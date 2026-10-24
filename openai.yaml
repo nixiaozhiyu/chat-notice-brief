@@ -1,0 +1,4 @@
+interface:
+  display_name: "聊天通知简洁版"
+  short_description: "把老师同学的长消息与零散作业要求整理成时间清楚、重点齐全的群聊转发通知"
+  default_prompt: "使用 $chat-notice-brief，把下面的聊天消息整理成可直接转发给同学的简洁通知，保留时间、提交方式和注意事项。"
